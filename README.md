@@ -104,7 +104,11 @@ Here's an example result showing the heatmap from a series of frames of video, t
 ![alt text][image5]
 ![alt text][image7]
 
+### Integrate with advanced lane detection
 
+I integrated this pipeline with previous project. It works fine.
+
+One easier way to do it is use the output video from last project as input for this pipeline.
 
 ---
 
